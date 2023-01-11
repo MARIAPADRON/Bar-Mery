@@ -46,7 +46,7 @@ function App() {
           <Drinks key={`drinky-${index}`} data={drinky}/>)
           : 
           <h1 className="Text">¡No hay coincidencias!
-          <img src="/public/imag.jpg" alt=""/>
+          <img src="/public/imag1.png" alt=""/>
           </h1>
         }    
       </div>
